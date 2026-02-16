@@ -1,4 +1,4 @@
-# Katherine Newman — The Digital Boardroom
+# Katherine Newman — The Digital Boardroom 1
 
 A premium executive portfolio website built for **Katherine Newman**, CEO & Founder of SILOETT.AI. This isn't a traditional portfolio — it's a **Digital Boardroom**: an investor-grade experience designed to attract investors, co-founders, and strategic partners.
 
